@@ -29,6 +29,13 @@ http://data.iterativ.ch
 # Access Server
 ssh data
 
+## Index data into elasticsearch
+
+```
+cd elastic
+python index_bulk.py -e data.iterativ.ch:9200 -f ../data/musicbrainz.json -m albums.json -i albums -t album -c 100
+```
+
 ## Manipulate json data
 
 ```
