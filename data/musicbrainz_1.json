@@ -1,81 +1,133 @@
 {
-  "album_artist": "Space Kelly",
-  "album_release_year": 2001,
-  "album_title": "Erster alles",
+  "album_artist": "1. Futurologischer Congress",
+  "album_release_date": "2006-08-18",
+  "album_release_year": 2006,
+  "album_title": "Schützt die Verliebten",
+  "cover_image": "http://coverartarchive.org/release/27bf11df-e0ec-4bd5-9aea-884e14604119/front",
   "main_artist": {
     "active_from": null,
     "active_until": null,
-    "gender": 1,
-    "name": "Space Kelly"
+    "gender": null,
+    "name": "1. Futurologischer Congress"
   },
-  "packaging": null,
-  "track_count": 11,
+  "packaging": [
+    "Jewel Case"
+  ],
+  "track1": {
+    "artist": "1. Futurologischer Congress",
+    "length": 224,
+    "number": "1",
+    "title": "Rote Autos"
+  },
+  "track_count": 18,
   "tracks": [
     {
-      "artist": "Space Kelly",
-      "length": 186,
+      "artist": "1. Futurologischer Congress",
+      "length": 224,
       "number": "1",
-      "title": "Die schönsten Mädchen gibt es in Amsterdam"
+      "title": "Rote Autos"
     },
     {
-      "artist": "Space Kelly",
-      "length": 195,
+      "artist": "1. Futurologischer Congress",
+      "length": 274,
       "number": "2",
-      "title": "Das Mädchen aus dem Fußballtrikotkatalog"
+      "title": "Nur mit Dir"
     },
     {
-      "artist": "Space Kelly",
-      "length": 185,
+      "artist": "1. Futurologischer Congress",
+      "length": 177,
       "number": "3",
-      "title": "Ich mag keine Aubergine"
+      "title": "Platin und Gold"
     },
     {
-      "artist": "Space Kelly",
-      "length": 185,
+      "artist": "1. Futurologischer Congress",
+      "length": 51,
       "number": "4",
-      "title": "September Mädchen"
+      "title": "Sonne, Wind und Meer"
     },
     {
-      "artist": "Space Kelly",
-      "length": 173,
+      "artist": "1. Futurologischer Congress",
+      "length": 210,
       "number": "5",
-      "title": "Das kommt nur von dem Petroleum"
+      "title": "Schützt die Verliebten"
     },
     {
-      "artist": "Space Kelly",
-      "length": 198,
+      "artist": "1. Futurologischer Congress",
+      "length": 230,
       "number": "6",
-      "title": "Babyface Claire"
+      "title": "Atem"
     },
     {
-      "artist": "Space Kelly",
-      "length": 205,
+      "artist": "1. Futurologischer Congress",
+      "length": 234,
       "number": "7",
-      "title": "Ich möchte die weiblichen Fans von Take That (Ska Version)"
+      "title": "Neuer Morgen"
     },
     {
-      "artist": "Space Kelly",
-      "length": 192,
+      "artist": "1. Futurologischer Congress",
+      "length": 187,
       "number": "8",
-      "title": "Ich wollte nie eine Nacht mit einem Groupie"
+      "title": "Rena (Hass)"
     },
     {
-      "artist": "Space Kelly",
-      "length": 379,
+      "artist": "1. Futurologischer Congress",
+      "length": 185,
       "number": "9",
-      "title": "Sozusagen Schluss gemacht"
+      "title": "Kalte Seele"
     },
     {
-      "artist": "Space Kelly",
-      "length": 359,
+      "artist": "1. Futurologischer Congress",
+      "length": 202,
       "number": "10",
-      "title": "Liebeslied 77"
+      "title": "Maschinenfunk"
     },
     {
-      "artist": "Space Kelly",
-      "length": 188,
+      "artist": "1. Futurologischer Congress",
+      "length": 209,
       "number": "11",
-      "title": "Ich mag keine Aubergine (Outro)"
+      "title": "Realität Nr. 1"
+    },
+    {
+      "artist": "1. Futurologischer Congress",
+      "length": 159,
+      "number": "12",
+      "title": "Sonne, Wind und mehr"
+    },
+    {
+      "artist": "1. Futurologischer Congress",
+      "length": 277,
+      "number": "13",
+      "title": "Stoned im Dschungel"
+    },
+    {
+      "artist": "1. Futurologischer Congress",
+      "length": 190,
+      "number": "14",
+      "title": "Heimatlied"
+    },
+    {
+      "artist": "1. Futurologischer Congress",
+      "length": 243,
+      "number": "15",
+      "title": "Schatten"
+    },
+    {
+      "artist": "1. Futurologischer Congress",
+      "length": 233,
+      "number": "16",
+      "title": "Rena (Hass) (Version '80)"
+    },
+    {
+      "artist": "1. Futurologischer Congress",
+      "length": 191,
+      "number": "17",
+      "title": "Wann willst Du endlich gehen"
+    },
+    {
+      "artist": "1. Futurologischer Congress",
+      "length": 38,
+      "number": "18",
+      "title": "Oma liegt im Koma"
     }
   ]
 }
