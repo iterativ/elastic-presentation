@@ -1,12 +1,4 @@
 .DS_Store
 .idea/*
 *.pyc
-data/s3bucket/*
-data/stats/*
-data/*.json
-data/*.json.zip
-data/**/*.json.gz
-data/input/*
-data/*.tgz
-data/tmp/**
 .gitold
