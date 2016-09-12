@@ -1,0 +1,93 @@
+{
+   "properties": {
+      "album_artist": {
+         "type": "string",
+         "fields": {
+            "raw": {
+               "type": "string",
+               "index": "not_analyzed"
+            }
+         }
+      },
+      "album_release_year": {
+         "type": "long"
+      },
+      "album_title": {
+         "type": "string",
+         "fields": {
+            "raw": {
+               "type": "string",
+               "index": "not_analyzed"
+            }
+         }
+      },
+      "main_artist": {
+         "properties": {
+            "active_from": {
+               "type": "long"
+            },
+            "active_until": {
+               "type": "long"
+            },
+            "gender": {
+               "type": "long"
+            },
+            "name": {
+               "type": "string",
+               "fields": {
+                  "raw": {
+                     "type": "string",
+                     "index": "not_analyzed"
+                  }
+               }
+            }
+         }
+      },
+      "packaging": {
+         "type": "string",
+         "fields": {
+            "raw": {
+               "type": "string",
+               "index": "not_analyzed"
+            }
+         }
+      },
+      "track_count": {
+         "type": "long"
+      },
+      "tracks": {
+         "properties": {
+            "artist": {
+               "type": "string",
+               "fields": {
+                  "raw": {
+                     "type": "string",
+                     "index": "not_analyzed"
+                  }
+               }
+            },
+            "length": {
+               "type": "long"
+            },
+            "number": {
+               "type": "string",
+               "fields": {
+                  "raw": {
+                     "type": "string",
+                     "index": "not_analyzed"
+                  }
+               }
+            },
+            "title": {
+               "type": "string",
+               "fields": {
+                  "raw": {
+                     "type": "string",
+                     "index": "not_analyzed"
+                  }
+               }
+            }
+         }
+      }
+   }
+}
