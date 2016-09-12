@@ -1,0 +1,81 @@
+{
+  "album_artist": "Space Kelly",
+  "album_release_year": 2001,
+  "album_title": "Erster alles",
+  "main_artist": {
+    "active_from": null,
+    "active_until": null,
+    "gender": 1,
+    "name": "Space Kelly"
+  },
+  "packaging": null,
+  "track_count": 11,
+  "tracks": [
+    {
+      "artist": "Space Kelly",
+      "length": 186,
+      "number": "1",
+      "title": "Die schönsten Mädchen gibt es in Amsterdam"
+    },
+    {
+      "artist": "Space Kelly",
+      "length": 195,
+      "number": "2",
+      "title": "Das Mädchen aus dem Fußballtrikotkatalog"
+    },
+    {
+      "artist": "Space Kelly",
+      "length": 185,
+      "number": "3",
+      "title": "Ich mag keine Aubergine"
+    },
+    {
+      "artist": "Space Kelly",
+      "length": 185,
+      "number": "4",
+      "title": "September Mädchen"
+    },
+    {
+      "artist": "Space Kelly",
+      "length": 173,
+      "number": "5",
+      "title": "Das kommt nur von dem Petroleum"
+    },
+    {
+      "artist": "Space Kelly",
+      "length": 198,
+      "number": "6",
+      "title": "Babyface Claire"
+    },
+    {
+      "artist": "Space Kelly",
+      "length": 205,
+      "number": "7",
+      "title": "Ich möchte die weiblichen Fans von Take That (Ska Version)"
+    },
+    {
+      "artist": "Space Kelly",
+      "length": 192,
+      "number": "8",
+      "title": "Ich wollte nie eine Nacht mit einem Groupie"
+    },
+    {
+      "artist": "Space Kelly",
+      "length": 379,
+      "number": "9",
+      "title": "Sozusagen Schluss gemacht"
+    },
+    {
+      "artist": "Space Kelly",
+      "length": 359,
+      "number": "10",
+      "title": "Liebeslied 77"
+    },
+    {
+      "artist": "Space Kelly",
+      "length": 188,
+      "number": "11",
+      "title": "Ich mag keine Aubergine (Outro)"
+    }
+  ]
+}

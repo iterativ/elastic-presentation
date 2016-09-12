@@ -29,3 +29,8 @@ http://data.iterativ.ch
 # Access Server
 ssh data
 
+## Manipulate json data
+
+```
+jq '.[1]' musicbrainz.json > musicbrainz_1.json
+```
