@@ -1,81 +1,160 @@
 {
-  "album_artist": "Space Kelly",
-  "album_release_year": 2001,
-  "album_title": "Erster alles",
-  "main_artist": {
-    "active_from": null,
-    "active_until": null,
-    "gender": 1,
-    "name": "Space Kelly"
-  },
-  "packaging": null,
-  "track_count": 11,
-  "tracks": [
-    {
-      "artist": "Space Kelly",
-      "length": 186,
-      "number": "1",
-      "title": "Die schönsten Mädchen gibt es in Amsterdam"
+    "album_artist": "Die \u00c4rzte",
+    "album_release_date": "1995-09-18",
+    "album_release_year": 1995,
+    "album_title": "Planet Punk",
+    "cover_image": "http://coverartarchive.org/release/012555fa-1d62-4e84-be1e-a498ac7cfbb6/front",
+    "featurings": [],
+    "gid": "012555fa-1d62-4e84-be1e-a498ac7cfbb6",
+    "label": "Metronome",
+    "main_artist": {
+        "active_from": 1982,
+        "active_until": null,
+        "gender": null,
+        "name": "Die \u00c4rzte"
     },
-    {
-      "artist": "Space Kelly",
-      "length": 195,
-      "number": "2",
-      "title": "Das Mädchen aus dem Fußballtrikotkatalog"
-    },
-    {
-      "artist": "Space Kelly",
-      "length": 185,
-      "number": "3",
-      "title": "Ich mag keine Aubergine"
-    },
-    {
-      "artist": "Space Kelly",
-      "length": 185,
-      "number": "4",
-      "title": "September Mädchen"
-    },
-    {
-      "artist": "Space Kelly",
-      "length": 173,
-      "number": "5",
-      "title": "Das kommt nur von dem Petroleum"
-    },
-    {
-      "artist": "Space Kelly",
-      "length": 198,
-      "number": "6",
-      "title": "Babyface Claire"
-    },
-    {
-      "artist": "Space Kelly",
-      "length": 205,
-      "number": "7",
-      "title": "Ich möchte die weiblichen Fans von Take That (Ska Version)"
-    },
-    {
-      "artist": "Space Kelly",
-      "length": 192,
-      "number": "8",
-      "title": "Ich wollte nie eine Nacht mit einem Groupie"
-    },
-    {
-      "artist": "Space Kelly",
-      "length": 379,
-      "number": "9",
-      "title": "Sozusagen Schluss gemacht"
-    },
-    {
-      "artist": "Space Kelly",
-      "length": 359,
-      "number": "10",
-      "title": "Liebeslied 77"
-    },
-    {
-      "artist": "Space Kelly",
-      "length": 188,
-      "number": "11",
-      "title": "Ich mag keine Aubergine (Outro)"
-    }
-  ]
+    "packaging": [
+        "Cardboard/Paper Sleeve",
+        "Cassette Case",
+        "Digipak"
+    ],
+    "track_count": 17,
+    "tracks": [
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "705fdfc5-7b57-4628-80b2-06f65ecbcba7",
+            "length": 138,
+            "lyrics": "Also ich - ich hab drei Jungs da drau\u00dfen.\nDie sind drauf und dran, dich alle zu machen.\n\nJetzt ist es wieder mal soweit, es war auch allerh\u00f6chste Zeit\nUnd wir sind wieder mal genial - tut uns furchtbar leid\nWie immer schlauer als der Rest, also bitte keinen Neid\nHalt die beste Band der Welt, bei aller Bescheidenheit\n\nHaben wir euch gefehlt? Habt ihr uns vermisst?\nIst euch jetzt klar, dass mit uns die Welt sch\u00f6ner ist?\nSeid ihr wieder froh? Na, was f\u00fcr ein Gl\u00fcck\nWir sagen hallo, denn wir sind zur\u00fcck - wir sind da\nWir sind wieder da\n\nWir lungern nur an Schulen rum, verkaufen kleinen Kindern Crack\nWir singen unz\u00fcchtige Lieder und gehen abends lange weg\nTischmanieren sind uns fremd, wir essen selten mit Besteck\nDie Plattenfirma schickt uns jedes Jahr nen dicken Scheck\n\nHabt ihr uns vermisst? Haben wir euch gefehlt?\nHabt ihr heimlich geweint und die Tage gez\u00e4hlt?\nJa wir sind zur\u00fcck und es riecht nach Urin\nWir sind die \u00c4rzte aus Berlin - AUS BERLIN\n\nWie ein Hagelsturm an einem Sommertag\nWie ein pl\u00f6tzlicher Misston in der sch\u00f6nsten Melodie\nDie einen finden's Schei\u00dfe, die andern finden's stark\nGenau wie jedes Jahr: Wir sind wieder da \n\nWer sind diese Kerle?\nIst das nicht ne Punk-Band?\nNa und? Ich werd mit den Knaben schon fertig.",
+            "number": "1",
+            "title": "Super drei"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "c9c33499-b164-479c-bfb2-963a9686567b",
+            "length": 188,
+            "lyrics": "Du hast mich so oft angespuckt, geschlagen und getreten\nDas war nicht sehr nett von dir, ich hatte nie darum gebeten\nDeine Freunde haben applaudiert, sie fanden es ganz toll\nWenn du mich verm\u00f6belt hast, doch jetzt ist das Ma\u00df voll\nGewalt erzeugt Gegengewalt, hat man dir das nicht erkl\u00e4rt?\nOder hast du da auch, wie so oft, einfach nicht genau zugeh\u00f6rt?\nJetzt stehst du vor mir und wir sind ganz allein\nKeiner kann dir helfen, keiner steht dir bei\nIch schlag nur noch auf dich ein\n\nImmer mitten in die Fresse rein\nImmer mitten in die Fresse rein\u2026\n\nIch bin nicht stark und ich bin kein Held, doch was zu viel ist, ist zu viel\nF\u00fcr deine Aggressionen war ich immer das Ventil\nDeine Kumpels waren immer dabei, doch jetzt wendet sich das Blatt\nAuch wenn ich morgen besser umzieh', irgendwo in eine andere Stadt\nGewalt erzeugt Gegengewalt, hat man dir das nicht erz\u00e4hlt?\nOder hast du da auch, wie so oft, im Unterricht gefehlt?\nJetzt liegst du vor mir und wir sind ganz allein\nUnd ich schlage weiter auf dich ein \u2014 das tut gut\nDas musste einfach mal sein\n\nImmer mitten in die Fresse rein\nImmer mitten in die Fresse rein\nImmer mitten in die Fresse\nMitten in die Fresse\nMitten in die Fresse\nMitten in die Fresse\nMitten in die Fresse\nMitten in die Fresse\nMitten\nFresse\nMitten in die Fresse\nMitten in die Fresse\nMitten in die Fresse\nMitten in die Fresse",
+            "number": "2",
+            "title": "Schunder-Song"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "fe1b59c5-6ae8-4f6f-a9c8-1f1df6869014",
+            "length": 208,
+            "lyrics": "Wei\u00dft du noch, wie's fr\u00fcher war? Fr\u00fcher war alles schlecht\nDer Himmel grau, die Menschen mies\nDie Welt war furchtbar ungerecht\nDoch dann, dann kam die Wende \u2013 unser Leid war zu Ende\n\nHipp, hipp, hurra! Alles ist super, alles ist wunderbar\nHipp, hipp, hurra! Alles ist besser, als es damals war\n\nFr\u00fcher waren wir alle traurig, wir weinten jeden Tag\nEs nieselte, wir waren oft krank, jetzt ist alles total stark\nJetzt lachen immer alle und rei\u00dfen st\u00e4ndig Witze\nWir sind nur noch am Badengehn wejen die Hitze\nUnd ich find' es wirklich scharf, dass ich das noch erleben darf\n\nHipp, hipp, hurra! Alles ist super, alles ist wunderbar\nHipp, hipp, hurra! Alles ist besser, als es gestern war\nAlle sind happy, alle sind gl\u00fccklich, alle sind froh\nUnd \u00fcberall, wo man hinguckt: Liebe und Frieden und so\n\nGestern ging es allen dreckig, heute geht es steil bergauf\nJeder hat sechs Richtige, alle sind total gut drauf\nEuropa, Asien, Afrika, Australien und Amerika\nFriede, Freude, Eierkuchen, alle singen ja ja jaaa\n\nHipp, hipp, hurra! Alles ist super, alles ist wunderbar\nHipp, hipp, hurra! Alles ist besser, als es gestern war\n\nHipp, hipp, hurra! Alles ist super, alles ist wunderbar\nHipp, hipp, hurra! Alles ist besser, als es damals war\nAlle sind Freunde, alle sind happy, alle sind froh\nUnd \u00fcberall, wo man hinguckt: Liebe und Frieden\nUnd \u00fcberall, wo man hinguckt: Liebe und Frieden\nUnd \u00fcberall, wo man hinguckt: Liebe und Frieden und so",
+            "number": "3",
+            "title": "Hurra"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "e0a6114d-f913-4ccd-922c-89f3f60144c9",
+            "length": 151,
+            "lyrics": "Ich schau dir schon lange zu, Baby\nDu bist der beste Anblick, der sich mir heut bot\nIch seh rot, sagst du nein, dann geh ich tot\nGlaube mir, das ist kein Trick, nur der ber\u00fchmte erste Blick\nJedes Wort aus meinem Mund klingt so ungeschickt\n\nGib zu, du f\u00fchlst es auch, und ich hab, was du jetzt brauchst\nIn meinem Herzen steht dein Name an der T\u00fcr\nUnd die Bombe in mir tickt, Baby, du machst mich verr\u00fcckt\nBitte geh mit mir, geh mit mir\n\nIch wei\u00df genau, dass du mein Baby wirst\nSo, wie es in meiner Hand zu lesen war\nWill, dass du auf die Stimme in dir h\u00f6rst, die sagt: Ja! (die sagt: Ja)\n\nIch wei\u00df, du f\u00fchlst es auch, und ich hab, was du jetzt brauchst\nIn meinem Herzen steht dein Name an der T\u00fcr\nUnd die Bombe in mir tickt, Baby, du machst mich verr\u00fcckt\nBitte geh mit mir, geh mit mir\n\nIch schau dir noch lange nach, Baby, ach\nDieser Traum verschwand so schnell, wie er begann\nIrgendwann hab ich den Mut und sprech dich an!",
+            "number": "4",
+            "title": "Geh mit mir"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "d1e2db09-71e1-4011-be18-64807987579a",
+            "length": 189,
+            "lyrics": "Ich sitze auf meinem Stuhl\nUnd ich schaue aus dem Fenster\nUnd ich stell mir wieder mal die alten Fragen:\nWo komm ich her, wo geh ich hin\nUnd wie viel Zeit werd' ich noch haben?\nIch denke nach \u00fcber die Welt\n\u00dcber das, was wirklich z\u00e4hlt\nIch wei\u00df genau, was mich so qu\u00e4lt\nIch bin genervt, ich bin frustriert\nWeil hier einfach nichts passiert\nWeil hier nie etwas passiert\nUnd ich schau wieder auf die Uhr\nDu bist immer noch nicht da\nKeine Ahnung, wo du bleibst, es ist wahr:\n\nMir ist langweilig, mir ist langweilig\nSterbenslangweilig ohne dich, ohne dich\nMir ist langweilig, so stinklangweilig, sterbenslangweilig\nOhne dich, ohne dich ist mir langweilig!\n\nIch liege auf meinem Bett\nUnd ich starre an die Decke\nUnd ich w\u00fcnsche dir die Pest an den Hals\nL\u00e4sst mich hier sitzen, einfach so\nAber vielleicht, vielleicht kommst du ja bald\nKein Bock auf Fernsehn, das ist \u00f6de\nWill nicht kiffen, das macht bl\u00f6de\nKann nicht aufsteh'n, bin zu m\u00fcde\nIch hab schon vier Mal onaniert\nWeil hier einfach nichts passiert\nWeil hier nie etwas passiert\nDie rechte Hand tut mir jetzt weh\nDu bist immer noch nicht da\nWei\u00df der Teufel, wo du steckst, es ist wahr:\n\nMir ist langweilig, sterbenslangweilig\nMir ist langweilig ohne dich, ohne dich\nSchei\u00dfe langweilig, mir ist langweilig\nSo stinklangweilig ohne dich, ohne dich ist mir langweilig",
+            "number": "5",
+            "title": "Langweilig"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "2c2f0b87-c2a0-4b0f-8e36-d72a7742991c",
+            "length": 221,
+            "lyrics": "Vor zweitausend Jahren sagte ein weiser Chinese, der \u00fcber die Zauberkraft des Sex nachdachte:\n\nGib Gas, lieber Michael Schumacher\nGib Gas, lieber Michael Schumacher\nGib Gas, lieber Michael Schumacher\nGib Gas, lieber Michael Schumacher\nF\u00e4hrst du immer im Kreis (brumm, brumm, brumm)\nDa wird der Motor ganz hei\u00df! (brumm, brumm, brumm)\nF\u00e4hrst du immer im Kreis (brumm, brumm, brumm)\nDa wird der Motor ganz hei\u00df! (brumm, brumm, bidumm)\nGib Gas, lieber Michael Schumacher\nGib Gas, lieber Michael Schumacher ...\nOooh \u2013 ich hab f\u00fcr dich 'ne Lebensversicherung\nAuf meinen Namen abgeschlossen\nTritt nur aufs Gaspedal (brumm, brumm, brumm)\nOh, mach es noch einmal (brumm, brumm, brumm)\nTritt nur aufs Gaspedal (brumm, brumm, brumm)\nOh, mach es noch einmal, mach es noch einmal \u2013 gib Gas, lieber Michael Schumacher ...\n\nYeah, yeah, yeah, yeah, yeah, yeah, denn du wei\u00dft ja\nIch hab f\u00fcr dich 'ne Lebensversicherung\nAuf meinen Namen abgeschlossen \u2013 yeah\n\nPass auf und schnall dich fest (schnall, schnall, schnall)\nFahr schneller als der Rest (brumm, brumm, brumm)\nPass auf und schnall dich fest (pass auf und schnall dich fest!)\nFahr schneller als der Rest (etwas schneller als die anderen)\nGib Gas, lieber Michael Schumacher\nGib Gas, lieber Michael Schumacher\nGib Gas, lieber Michael Schumacher\nGib Gas, lieber Michael Schumacher\n\nIch hab auch heute schon mit G\u00f6de telefoniert\nUnd wir dr\u00fccken dir die Daumen, dass dir nix passiert\nIch hab auch heute schon mit G\u00f6de telefoniert\nUnd wir dr\u00fccken dir die Daumen, dass dir nix passiert\n\nGib Gas, lieber Michael Schumacher\nGib Gas, gib Gas lieber Michael, denn du wei\u00dft ja:\nIch hab f\u00fcr dich 'ne Lebensversicherung\nAuf meinen Namen abgeschlossen \u2013 yeah\n\nIch - hab noch lange nicht genug.",
+            "number": "6",
+            "title": "Mein Freund Michael"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "03be8933-e7f8-482c-817b-55240059dc1c",
+            "length": 207,
+            "lyrics": "Du, das is'n ganz b\u00f6ser, b\u00f6ser, b\u00f6ser Bengel!\n\nRod!\nDer Typ, von dem wir hier erz\u00e4hln, ist wirklich jedem zu empfehln\nIst wirklich wunderbar (yeah)\nDieser Typ ist voll korrekt, ja, aus Wasser macht er Sekt\nUnd aus Kot, da macht er Kaviar (Isses wahr?)\nSein Herz ist ein Bunker, und da schlie\u00dft er euch alle mit ein\n\nRemember: Rod, Rod loves you! (Rod loves you)\nRod, Rod loves you! (Rod loves you)\nRod (Rod) (yeaha)\nRod (Rod) (Hey, du da. I love you)\nGegen ihn, wissen wir jetzt, sind wir niederes Geschnetz\nSind wir unw\u00fcrdig und klein (unw\u00fcrdig und klein)\nBitte, wenn ihr meint, doch ehrlich mal\nIhr scheint kleine Arschkriecher zu sein (Yes, Sir! Yes, Sir!)\nIch bin zum Lieben geboren, und das schlie\u00dft sogar euch mit ein\n\nRemember: Rod, Rod loves you! (Rod loves you)\nRod, Rod loves you! (Rod loves you)\n\nLiebe ist der Beruf, zu dem Gott ihn erschuf\nHeute ist Rod selbst ein Gott (ouhoho\u2013hohohouuho)\nKniet nieder! Kniet nieder! \nKniet nieder! Kniet nieder!\nKniet nieder! Kniet nieder!\nKniet nieder und betet ihn an!\n\nRod, Rod loves you! (yeahahahaaa) (Rod loves you) Rod\nRod, loves you! (Hey du \u2013 remember, I love you!) Rod!\n(Entz\u00fcckend! Ja ja, ein echtes Seelchen)\n(Remember: Rod \u2026 fauch!) Rod!\n(Hey Baby: I love you \u2026) Rod loves you! (Isses wahr)\n(I love you!)",
+            "number": "7",
+            "title": "Rod \u2665 You"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "d163da78-d0d3-4452-9360-4091cfede4fa",
+            "length": 203,
+            "lyrics": "St\u00e4ndig fragst du mich, warum, wieso, weshalb ich etwas mache\nWas ich mir dabei gedacht hab, misch dich nicht in meine Sachen\nImmerzu willst du was wissen, ich h\u00f6r immer nur: Warum?\nImmerzu stellst du mir Fragen, merkst du nicht, ich bleibe stumm\nIch rede nicht mit dir, also h\u00f6r mir nicht zu\nStell mir keine Fragen, lass mich einfach in Ruh\n\nWie soll ich dir etwas erkl\u00e4ren, was ich selber nicht versteh?\nWarum soll ich dir was zeigen, was ich selber noch nicht seh?\nWas ich denke, was ich f\u00fchle, macht f\u00fcr mich gen\u00fcgend Sinn\nUnd ich bin so, wie ich bin (Ich bin so, wie ich bin)\n\nIch hab kein Ziel und keine Richtung, aber meine eigene Welt\nIch mach alles, was mir einf\u00e4llt, schei\u00dfegal, obs dir gef\u00e4llt\nIch wei\u00df, du siehst das anders, aber ich bin nicht du\nHau jetzt ab, zieh Leine, lass mich endlich in Ruh\n\nWie soll ich dir etwas erkl\u00e4ren, was ich selber nicht versteh?\nWarum soll ich dir was zeigen, was ich selber noch nicht seh?\nWas ich denke, was ich f\u00fchle, macht f\u00fcr mich gen\u00fcgend Sinn\nUnd ich bin so, wie ich bin (Ich bin so, wie ich bin)\n\nSelbst wenn es auf deine Fragen eine Antwort g\u00e4be\nW\u00fcrdest du sie sicher nie von mir erfahren\nIch hab kein Geheimnis, ich leb nur mein eigenes Leben\nUnd den Rest werd ich dir niemals offenbaren\nSt\u00e4ndig fragst du mich, warum, wieso, weshalb ich etwas mache\nWas ich mir dabei gedacht hab, misch dich nicht in meine Sachen\n\nWie soll ich dir etwas erkl\u00e4ren, was ich selber nicht versteh?\nWarum soll ich dir was zeigen, was ich selber noch nicht seh?\nWas ich denke, was ich f\u00fchle, macht f\u00fcr mich gen\u00fcgend Sinn\nIch schulde dir keine Erkl\u00e4rung, denn ich bin so wie ich bin\nWie ich bin\nOh, ich bin so, wie ich bin",
+            "number": "8",
+            "title": "Der Misanthrop"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "4d20710f-087e-4cc9-8bb1-840d431f894b",
+            "length": 219,
+            "lyrics": "Sex mit M\u00f6belst\u00fccken, was halten Sie davon?\n\nDie ganze Zeit war ich f\u00fcr dich da, wei\u00df nicht, wie's dazu kam\nAn mir hats nicht gelegen, Baby, so viel ist wohl klar\nAllzeit bereit, du kennst mich, Baby, immer Feueralarm\nGegen mich wirkt Spanische Fliege wie Maoam\n\nDu wirst mich vermissen, Baby (wirst mich vermissen, Baby)\nHey, du wirst mich vermissen, Baby\n\nDu hast mich verlassen, wirklich kaum zu fassen\nSiehst du nicht, wie all die anderen\nBaby, gegen mich verblassen?\nDas war dein Recht nicht, ey, Baby, echt nicht\nDie Frau vom Mann\nNicht der Mann von der Frau wird hier verlassen\n\nDu wirst mich vermissen, Baby (wirst mich vermissen, Baby)\nDu wirst mich vermissen, Baby \n\nWirst mich vermissen, Baby (Gudrun Landgrebe)\nWirst mich vermissen, Baby\nWirst mich vermissen, Baby\n(Loving you was like loving the death)\nWirst mich vermissen, Baby\n\nDu liegst ganz allein im Bett, spielst an dir rum\nUnd du vermisst mich, Baby (und du vermisst mich, Baby)\nSo ganz allein im Bett, tja, das ist dumm\nUnd du vermisst mich, Baby  (und du vermisst mich, Baby)\nStatt feinste Schmankerl nur noch Fleischwurst,\u00a0\u00bbeben drum\u00ab\nUnd du vermisst mich, Baby\n\nDie ganze Zeit war ich f\u00fcr dich da\nDoch du hast mich verlassen\nNeue K\u00fcche, neuer Staubsauger\nDoch du hast mich verlassen\nWas ist blo\u00df los mit dir, du hattest nie Grund zur Klage\nNur die Ruhe, trink dir erst mal 'n Bier\nSind sicher nur deine Tage\n\nDu wirst mich vermissen, Baby (wirst mich vermissen, Baby)\nHey, du wirst mich vermissen, Baby \nWirst mich vermissen, Baby\nWirst mich vermissen, Baby\nWirst mich vermissen, Baby\nWirst mich vermissen, Baby",
+            "number": "9",
+            "title": "Vermissen, Baby"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "9d1a4eb4-650d-4e5b-9e31-0af82003ebb1",
+            "length": 262,
+            "lyrics": "So was wie Hunger kenn ich nicht, denn ich bin sehr stark behaart\nIns Restaurant, da renn ich nicht \u2013 nein, das Geld, das wird gespart\nUnd ich werd auch nicht fett\nDer Mann war ein J\u00e4ger und Sammler, ich bin beides in moderner Form\nIch jage und sammle st\u00e4ndig, die Erfolgsquote ist enorm\nIch tu keinem Tier weh, wenn ich die N\u00fcstern bl\u00e4he\nZieh die Luft raus und rein\nKomm, ich lad dich ein zu einem Nasenkotelett\nDavon wirst du nicht fett; reichlich N\u00e4hrwert, Proteine\nMein Gratis-Festbankett!\n\nVon allen K\u00f6rperteilen sind Polypen meine Stars\nDass ich bei Schnupfen immer froh bin\nBedarf wohl keines Kommentars (bedarf wohl keines Kommentars)\nUn repas pour gourmets \u2013 wenn ich die N\u00fcstern bl\u00e4he\n\nZieh die Luft raus und rein\nKomm, ich lad dich ein zu einem Nasenkotelett\nDavon wirst du nicht fett; reichlich N\u00e4hrwert, Proteine\nAuf meinem Festbankett\n\nJetzt bek\u00e4mpfen wir jede Hungersnot\nMit dem uns gegebenen Nasenbrot\nDas, was \u00fcbrig bleibt, schmier ich untern Stuhl, ess ich sp\u00e4ter auf\nBaby, das ist cool! Ich f\u00fchl mich wie Jesus von Nazareth\nNur statt trocken Brot gibt es Nasenkotelett, Nasenkotelett\n\nWarum Exotisches bestellen, wenn das Gute liegt so nah?\nIch werd nie 'ne Zeche prellen, hab immer was zu knabbern da\nHunger kenne ich kaum, es ist fast wie im Traum\n\nZieh nur Luft rein und raus, Baby, das sieht lecker aus\nMein Nasenkotelett macht garantiert nicht fett\nBrauchst kein' Teller, h\u00f6chstens Tempo und auch kein Besteck\nNasenkotelett - macht garantiert nicht fett\nReichlich N\u00e4hrwert, Proteine auf meinem Festbankett ...\n\nNasenkotelett, Nasenkotelett ...\n\nIch versuch gar nicht erst, zu widerstehen.\nDa hab ich keine Chance.",
+            "number": "10",
+            "title": "Nazareth"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "8cd2f4c7-e1a0-4903-bb53-80331eca1b9b",
+            "length": 221,
+            "lyrics": "Gestern Nacht ist meine Freundin explodiert\nIch hatte nicht damit gerechnet, darum bin ich blutverschmiert\nWer konnte ahnen, dass sie so reagiert?\nGestern Nacht ist meine Freundin explodiert\n\nT\u00e4glich liest man in der Zeitung von spontanen Explosionen\nMan bl\u00e4ttert um und denkt im Stillen:\nDas Schicksal wird mich sicherlich verschonen\nIch frage Sie \u2013 nee, ich frag Sie!\nWie konnte so etwas geschehn?\nMein Baby war mein Ein und Alles und entre nous:\nSie war auch sch\u00f6n\nSie hatte einen s\u00fc\u00dfen K\u00f6rper, so wie der eine von den Krupps \u2013\nWie hie\u00df er noch? - D\u00f6rper\n\nGestern Nacht ist meine Freundin explodiert\nIch hatte nicht damit gerechnet, darum bin ich blutverschmiert\nMan kann sagen, ich bin ziemlich irritiert\nGestern Nacht ist meine Freundin explodiert\n\nIch rief sofort die Polizei an und sagte:\nKomm'se schnell vorbei, Mann\nMeine Freundin ist pass\u00e9, so wie ein China-B\u00f6ller \"D\"\nSie flog mir pl\u00f6tzlich um die Ohren\nKein Wunder, dass ich traurig bin\nIch hab nicht nur 'ne Frau verloren\nNein, auch die Bettw\u00e4sche ist hin\nIch wollt sie gerade k\u00fcssen, da gab es einen Knall\nGrad eben lag sie neben mir\nJetzt liegt sie \u00fcberall (im Raum verteilt)\n\nGestern Nacht ist meine Freundin explodiert\nZum Gl\u00fcck trug ich 'nen Integralhelm, darum ist mir nichts passiert\nWer konnte ahnen, dass sie so reagiert?\nGestern Nacht ist meine Freundin explodiert\n\nAls meine erste gro\u00dfe Liebe ganz spontan in Flammen stand\nDa habe ich noch laut gelacht\nDie n\u00e4chste wurde dann von Au\u00dferirdischen entf\u00fchrt\nIch hab mir nichts dabei gedacht\nMit Freundin Nummer 3 war es auch bald vorbei\nSie versteinerte, das fand ich ganz normal\nDoch als die vierte explodierte, wurde mir dann langsam klar\nDass meine Partnerin zu sein wohl nicht ganz ungef\u00e4hrlich war\n\nGestern Nacht ist meine Freundin explodiert\nIch hatte nicht damit gerechnet, darum bin ich blutverschmiert\nWer konnte ahnen, dass sie so explodiert?\n\nGestern Nacht ist meine Freundin explodiert",
+            "number": "11",
+            "title": "Meine Ex(plodierte Freundin)"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "b40442a1-0dff-4109-942b-f56eb53c9fe3",
+            "length": 275,
+            "lyrics": "Wir kannten uns noch nicht lange\nDrum war mir auch bange vorm Treffen mit ihr\nSie war ein traumhaftes M\u00e4dchen\nKein Doofie und Bl\u00f6dchen, wir gingen spazieren\nEin Essen bei Kerzenschein, Romantik und Wein\nSo sollte es sein\nDer Wein war nicht zu verachten\nWir scherzten und lachten, mein Charme war erprobt\nDas Essen war wirklich klasse\nZum Abschluss 'ne Tasse Kaffee, etwas Obst\nUnser Gl\u00fcck gedieh, doch dann sch\u00e4lte sie\nSch\u00e4lte sie 'ne Banane, mein Gehirn wurde pl\u00f6tzlich zu Sahne\nOh Baby, sie a\u00df die Banane\nStatt Romantik gabs nur noch profane Gef\u00fchle in mir\n\nMeine Beherrschung ging fl\u00f6ten, ich fing an zu err\u00f6ten\nDie Stirn war schwei\u00dfnass. Sie a\u00df langsam und bed\u00e4chtig\nDer Anblick war pr\u00e4chtig &amp;#8212; scheinbar hatte sie Spa\u00df\nAlso habe ich schnell mehr Bananen bestellt\nAlle Bananen der Welt\n\nIch sprach jetzt nicht mehr geschwollen\n(\"Ich wei\u00df, was die Damen von mir erwarten\") \"Ey, Alter, ey, ick wee\u00df, wat die Weiber wollen, vastehste?&amp;#39;\nGeifer troff mir vom Kinn\nAngewidert lie\u00df sie mich sitzen, ich fing an zu schwitzen\nSabberte vor mich hin\nWieder sah ich sie nie, doch in meinen Tr\u00e4umen sch\u00e4lt sie\n\nDa sch\u00e4lt sie 'ne Banane, mein Gehirn, das wird pl\u00f6tzlich zu Sahne\nOh yeah, Baby, iss die Banane\nStatt Romantik regiern nur profane Gef\u00fchle in mir\nFrauen essen Bananen, ohne was von den Folgen zu ahnen\nF\u00fcr sie ists nur Nahrungsaufnahme\nF\u00fcr den Herrn 'ne Fellatio-Reklame\nOh yeah, Baby, iss die Banane\nMein Gehirn besteht eh nur aus Sahne\nYeah, Baby, iss die Banane, schei\u00df Romantik\nHier herrscht nur profane Wollust in mir\nDie Banane\nDie Banane",
+            "number": "12",
+            "title": "Die Banane"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "aaaf7522-fa76-4354-9cbf-27ccf8d8284c",
+            "length": 157,
+            "lyrics": "Die folgenden Klangbeispiele sind Erg\u00e4nzungen zum methodischem Aufbau \nder Textbeilage und d\u00fcrfen nicht losgel\u00f6st von dieser behandelt werden.\n\nMusik hab ich schon als Kind gern geh\u00f6rt\nDie Br\u00fcllm\u00f6bel an, dass es nur noch so r\u00f6hrt\nJetzt kann ich kaum noch h\u00f6ren, meine Ohren sind zerst\u00f6rt\nDie Nachbarn holten immer sofort die Polizei\nEin bisschen zu viel L\u00e4rm, was ist denn schon dabei?\nWenn es nicht laut ist, ist es auch nicht Hi-Fi!\n\nBSL, ich h\u00f6r so gerne BSL, Tag und Nacht nur BSL\nDarfs auch was anderes sein? Nein! Leise is schei\u00dfe!\n\nDie Nachbarn sind leider v\u00f6llig daneben\nNach dem dritten H\u00f6rsturz haben sie aufgegeben\nZum Abschied gab es noch ein Erdbeben\nWie es weitergeht? Oh, ich hab keinen Schimmer\nWenn ich genervt bin, dreh ich auf in meinem Zimmer\nUnd genervt bin ich eigentlich sowieso immer\n\nBSL, ich h\u00f6r so gerne BSL, Tag und Nacht nur BSL\nDarfs auch was anderes sein? Nein! Leise is schei\u00dfe!\n\nMach noch etwas lauter, ein kleines bisschen lauter\nBSL, ich h\u00f6r so gerne BSL, Tag und Nacht nur BSL\nDarfs auch was anderes sein? Nein! BSL!\n\nBSL, ich h\u00f6r so gerne BSL, Tag und Nacht nur BSL\nDarfs auch was anderes sein? Nein! Leise is schei\u00dfe! BSL!",
+            "number": "13",
+            "title": "B.S.L."
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "986aec01-490e-4345-acab-74197f01a769",
+            "length": 243,
+            "lyrics": "(\"Punker, ich meine, das sind doch nicht ausschlie\u00dflich\nUnterprivilegierte aus den Ghettos.\")\n\nSusi war f\u00fcr&amp;#39;n M\u00e4dchen wirklich nicht sch\u00f6n\nDarum haben auch alle immer weggesehn\nUnd jetzt ist es zu sp\u00e4t\nJetzt kann man nichts mehr f\u00fcr Susi tun (Uhouhou)\nUnd jetzt ist es zu sp\u00e4t, jetzt kann man nichts mehr f\u00fcr sie tun\n\nF\u00fcr die Jungs in der Schule war sie der letzte Dreck\nBei manchen allerdings auch Mittel zum Zweck\nUnd f\u00fcr ein bisschen Z\u00e4rtlichkeit lie\u00df Susi alles zu (Uhouhou)\nF\u00fcr ein bisschen Z\u00e4rtlichkeit lie\u00df Susi alles zu\n\nIhre Mutter war schon lange tot und der Vater nur im Suff\nUnd nachts nahm Papi sich die Susi vor\nDas war billiger als der Puff, das war billiger als der Puff\n\nSusi suchte Hilfe bei den Lehrern und der Polizei\nAber niemand hilft dir, wenn du der Abschaum bist (Uhouhou)\nWirklich niemand hilft dir, wenn du wie Susi bist\n\nUnd immer gr\u00f6\u00dfer wurde der Schmerz, da fasste Susi sich ein Herz\nUnd so kam es so, wie es gekommen ist (Uhouhou)\nUnd so kam es so, wie es gekommen ist\n\nWas Susi abends dann mit Vati tat\nNennt man gemeinhin Kastration\nZ\u00fcndete ihn und dann die Schule an und st\u00fcrzte sich vom Balkon\nUnd st\u00fcrzte sich vom Balkon\n(Hey)\n\nWer glaubt, dass sie jetzt in Frieden ruht\nDer kennt die Bibel nicht sehr gut\nDenn f\u00fcr Mord, da gibt&amp;#39;s bei Christen kein Pardon (Uhouhou)\nUnd in der H\u00f6lle wartete der Vati schon",
+            "number": "14",
+            "title": "Die traurige Ballade von Susi Spakowski"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "eab5f7ee-a4c7-43e9-85a2-447a7d649d5e",
+            "length": 240,
+            "lyrics": "Wenn du was zu erz\u00e4hlen hast, dann h\u00f6r ich gerne zu\nSechs Semester Lauschen, dritter Dan Geh\u00f6r-Kung-Fu\nHast du Sorgen und Probleme, ja, das kommt im Leben vor\nDie Welt ist so gemein zu dir, doch ich leih dir mein Ohr\nFang einfach an zu reden, lass endlich alles raus\nEine Runde Mitleid geb ich dir doch gerne aus\nDu sprichst von deiner Kindheit, das ist wirklich interessant\nIch nicke, wo es sein muss, und ich lausche dir gebannt\nIch bin v\u00f6llig deiner Meinung, du liegst wirklich ganz weit vorn\nIch h\u00e4ng an deinen Lippen und du kaust an meinen Ohrn\nIch hab eh nichts Besseres vor, also geh bitte ins Detail\nEs ist ja grad mal Mitternacht und morgen hab ich frei\nDu suchst nach Mr. Listen? Er steht genau vor dir\n\nLass mich dein Therapeut sein, bitte red mit mir\n\nHey du, ich finde wirklich, du bist echt total nett\nBist nicht so wie die anderen, du willst nicht sofort ins Bett\nIch find dich ziemlich dufte, du, und irgendwie auch toll\nUnd weil du so sympathisch bist, quatsch ich dich total voll\nNiemand will mir zuh\u00f6rn, und das prangere ich an\nMit dir kann ich prima labern, du bist echt super, Mann!\nLass mich dir erz\u00e4hlen, hast du schon gewusst?\nEs gibt da noch 'ne Kleinigkeit, die du erfahren musst\nHab ich dir denn eigentlich schon von meinem Freund erz\u00e4hlt?\nIch fahr nachher noch zu ihm, weil er mir doch langsam fehlt\nObwohl er nur schnell tackern will, danach ist sofort Schicht\nUnd ob ich zum Orgasmus komm, das interessiert ihn nicht\nWenn ich dann wieder reden will, dann meld ich mich bei dir\n\nDu bist ein prima Kumpel, bitte red mit mir\n(Huh)\nRed mit mir\nBitte, red mit mir\nRed mit mir\nBitte, red mit mir\nRed mit mir\nBitte bitte, red mit mir (red mit mir)\n(Komm, komm, komm) Red mit mir\nBaby, red mit mir \nRed mir mit ...\n(Die ganze Nacht lang)\nRed mit mir ...",
+            "number": "15",
+            "title": "Red mit mir"
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "36dfc8b3-cbbe-4e2a-bf11-3c54de549853",
+            "length": 186,
+            "lyrics": "Ich bin ein echter Taugenichts, ein Tagedieb, ein Tunichtgut.\nBei mir ist Schmalhans K\u00fcchenmeister.\nIch habe einen kleinen Hund, der pinkelt mir die Bude voll,\nWenn ich ihn streicheln will, dann bei\u00dft er.\n\nMein Leben, mein Leben ist total daneben.\nIch habe nur noch einen Wunsch\n\nIch will sterben, ich will sterben (Aha),\nJa, ich sag auf Wiedersehen.\nIch will sterben, ich will sterben (Aha),\nSo kann es nicht weitergehen.\n\nIch \u00fcbergie\u00df' mich mit Benzin, ich z\u00fcnd' mich an, ich h\u00e4ng' mich auf,\nStech' mir ein Messer in den Magen,\nJag' mir 'ne Kugel durch den Kopf, ich schneid' mir die Pulsadern durch.\nIch kann es hier nicht mehr ertragen.\n\nMein Dasein, mein Dasein darf einfach nicht wahr sein.\nIch habe nur noch einen Wunsch\n\nIch will sterben, ich will sterben (Aha),\nSo kann es nicht weitergehen.\nIch will sterben, ich will sterben (Aha),\nJetzt im Grab, das w\u00e4re sch\u00f6n.\n\nDie Welt ist schlecht alle hassen mich.\nDie Welt ist schlecht alle hassen mich.",
+            "number": "16",
+            "title": "Trick 17 m. S."
+        },
+        {
+            "artist": "Die \u00c4rzte",
+            "gid": "449ad68d-c591-4fc2-9ae8-e301c064645a",
+            "length": 180,
+            "lyrics": "Waffenkontrolle ist f\u00fcr Babys und Kommunisten.\nH\u00f6ren Sie, damit eines ganz klar ist:\nWaffen bringen niemanden um, aber ich!\n\nIn den Tiefen mancher Seele tun sich Abgr\u00fcnde auf (Abgr\u00fcnde auf)\nSchlechte Menschen, Misset\u00e4ter gab es immer zuhauf\nR\u00e4uber und Banditen (und Banditen), M\u00f6rder auch sogar (M\u00f6rder auch sogar)\nDies ist jetzt das Lied von einem, der ihr K\u00f6nig war (der ihr K\u00f6nig war)\nDies ist jetzt das Lied von einem, der ihr K\u00f6nig war\n\nIch verkaufe Terror, ich verkaufe Tod\nElend, Leid und Schmerzen sind bei mir im Angebot\nIch biete eine L\u00f6sung f\u00fcr fast jedes Problem\nEffektiv, pr\u00e4zise, sauber, billig und bequem\nIch exportiere in die ganze Welt\nDie Aktien steigen, das ist es, was z\u00e4hlt\n\nIch bin nur ein Opfer des Kapitalismus\nIch bin nur ein Opfer des Kapitalismus\n\nEs kommt nur auf den Standpunkt an, von dem man so was sieht\nDenk an die Rendite, denk an den Profit!\nAn jedem zweiten Kr\u00fcppel verdien ich eine Mark\nUnd wenn er am Krepieren ist, verkauf ich ihm den Sarg!\nRed nicht dauernd von Moral\nWoher das Geld kommt, ist doch egal\n\nIch bin nur ein Opfer des Kapitalismus\nIch bin nur ein Opfer des Kapitalismus\nIch bin nur ein Opfer des Kapitalismus\nIch bin nur ein Opfer des Kapitalismus\n\nIch, \u00e4h, muss weg. Es war wild und wunderbar punky, he? Ciao!",
+            "number": "17",
+            "title": "Opfer"
+        }
+    ]
 }
