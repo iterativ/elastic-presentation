@@ -9,10 +9,23 @@
             }
          }
       },
+      "album_release_date": {
+         "type": "date",
+         "format": "strict_date_optional_time||epoch_millis"
+      },
       "album_release_year": {
          "type": "long"
       },
       "album_title": {
+         "type": "string",
+         "fields": {
+            "raw": {
+               "type": "string",
+               "index": "not_analyzed"
+            }
+         }
+      },
+      "cover_image": {
          "type": "string",
          "fields": {
             "raw": {
@@ -49,6 +62,40 @@
             "raw": {
                "type": "string",
                "index": "not_analyzed"
+            }
+         }
+      },
+      "track1": {
+         "properties": {
+            "artist": {
+               "type": "string",
+               "fields": {
+                  "raw": {
+                     "type": "string",
+                     "index": "not_analyzed"
+                  }
+               }
+            },
+            "length": {
+               "type": "long"
+            },
+            "number": {
+               "type": "string",
+               "fields": {
+                  "raw": {
+                     "type": "string",
+                     "index": "not_analyzed"
+                  }
+               }
+            },
+            "title": {
+               "type": "string",
+               "fields": {
+                  "raw": {
+                     "type": "string",
+                     "index": "not_analyzed"
+                  }
+               }
             }
          }
       },
