@@ -43,7 +43,7 @@
                "type": "long"
             },
             "gender": {
-               "type": "long"
+               "type": "string"
             },
             "name": {
                "type": "string",
@@ -133,6 +133,9 @@
                      "index": "not_analyzed"
                   }
                }
+            },
+            "lyrics": {
+               "type": "string"
             }
          }
       }
