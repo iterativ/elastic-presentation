@@ -135,7 +135,8 @@
                }
             },
             "lyrics": {
-               "type": "string"
+               "type": "string",
+               "index": "german"
             }
          }
       }
