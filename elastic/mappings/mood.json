@@ -1,0 +1,37 @@
+{
+   "properties": {
+      "age": {
+         "type": "long"
+      },
+      "beauty": {
+         "type": "long"
+      },
+      "file": {
+         "type": "string",
+         "fields": {
+            "raw": {
+               "type": "string",
+               "index": "not_analyzed"
+            }
+         }
+      },
+      "gender": {
+         "type": "string",
+         "fields": {
+            "raw": {
+               "type": "string",
+               "index": "not_analyzed"
+            }
+         }
+      },
+      "mood": {
+         "type": "string",
+         "fields": {
+            "raw": {
+               "type": "string",
+               "index": "not_analyzed"
+            }
+         }
+      }
+   }
+}

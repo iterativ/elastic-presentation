@@ -103,7 +103,8 @@ class DataIndexer:
 
             for otop in objects:
                 for olow in otop:
-                    olow['_id'] = olow['gid']
+                    olow['_id'] = str(uuid.uuid1())
+                    #olow['_id'] = olow['gid']
                     yield olow
 
     def make_opts(self):
