@@ -34,6 +34,28 @@
             }
          }
       },
+      "featurings": {
+         "type": "string",
+         "fields": {
+            "raw": {
+               "type": "string",
+               "index": "not_analyzed"
+            }
+         }
+      },
+      "gid": {
+         "type": "string",
+         "index": "not_analyzed"
+      },
+      "label": {
+         "type": "string",
+         "fields": {
+            "raw": {
+               "type": "string",
+               "index": "not_analyzed"
+            }
+         }
+      },
       "main_artist": {
          "properties": {
             "active_from": {
@@ -42,8 +64,23 @@
             "active_until": {
                "type": "long"
             },
+            "artist_type": {
+               "type": "string",
+               "fields": {
+                  "raw": {
+                     "type": "string",
+                     "index": "not_analyzed"
+                  }
+               }
+            },
             "gender": {
-               "type": "string"
+               "type": "string",
+               "fields": {
+                  "raw": {
+                     "type": "string",
+                     "index": "not_analyzed"
+                  }
+               }
             },
             "name": {
                "type": "string",
@@ -57,6 +94,15 @@
          }
       },
       "packaging": {
+         "type": "string",
+         "fields": {
+            "raw": {
+               "type": "string",
+               "index": "not_analyzed"
+            }
+         }
+      },
+      "release_type": {
          "type": "string",
          "fields": {
             "raw": {
@@ -113,8 +159,16 @@
                   }
                }
             },
+            "gid": {
+               "type": "string",
+               "index": "not_analyzed"
+            },
             "length": {
                "type": "long"
+            },
+            "lyrics": {
+               "type": "string",
+               "analyzer": "german"
             },
             "number": {
                "type": "string",
@@ -133,10 +187,6 @@
                      "index": "not_analyzed"
                   }
                }
-            },
-            "lyrics": {
-               "type": "string",
-               "analyzer": "german"
             }
          }
       }
