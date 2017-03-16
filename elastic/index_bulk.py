@@ -12,6 +12,7 @@ import logging
 import os
 import pprint
 import uuid
+import urllib3
 
 from elasticsearch import Elasticsearch
 from elasticsearch.helpers import streaming_bulk
@@ -21,6 +22,7 @@ import sys
 from common.json_helper import load_json_file
 
 logger = logging.getLogger('main')
+urllib3.disable_warnings()
 
 
 class DataIndexer:
@@ -104,7 +106,7 @@ class DataIndexer:
             for otop in objects:
                 for olow in otop:
                     olow['_id'] = str(uuid.uuid1())
-                    #olow['_id'] = olow['gid']
+                    # olow['_id'] = olow['gid']
                     yield olow
 
     def make_opts(self):
